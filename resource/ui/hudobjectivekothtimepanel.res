@@ -82,7 +82,7 @@
 				"tall"			"10"
 				"wide"			"35"
 				"wide_minbad"	"35"
-				"font"			"HudFontSmall"
+				"font"			"LemonRegular12"
 				"font_minbad"	"HudFontSmall"
 				"font_lodef"	"HudFontSmall"
 			
@@ -164,7 +164,7 @@
 				"wide"			"35"
 				"wide_minbad"	"35"
 				"tall"			"10"
-				"font"			"HudFontSmall"
+				"font"			"LemonRegular12"
 				"font_minbad"	"HudFontSmall"
 				"font_lodef"	"HudFontSmall"
 			

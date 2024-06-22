@@ -350,7 +350,7 @@
 			"ypos"					"21"
 			"ypos_minbad"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
+			"font"					"LemonRegular10"
 			"font_hidef"			"HudFontSmallestBold"
 			"font_lodef"			"HudFontSmallestBold"
 		}

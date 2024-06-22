@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusEscort"
-		"xpos"				"c-200"
+		"xpos"				"c-150"
 		"ypos"				"r150"
 		"zpos"				"1"
 		"wide"				"400"
@@ -12,7 +12,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"progress_wide"		"200"
 		
 		"if_multiple_trains"
 		{
@@ -28,7 +28,7 @@
 		"xpos"			"73"
 		"ypos"			"123"
 		"zpos"			"0"
-		"wide"			"254"
+		"wide"			"150"
 		"tall"			"4"
 		"visible"		"1"
 		"enabled"		"1"
@@ -61,7 +61,7 @@
 		"xpos"			"73"
 		"ypos"			"123"
 		"zpos"			"4"
-		"wide"			"254"
+		"wide"			"200"
 		"tall"			"4"
 		"visible"		"0"
 		"enabled"		"1"

@@ -122,7 +122,7 @@
 		"zpos"			"3"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"1"
+		"visible"		"0"
 		"proportionaltoparent"	"1"
 
 		"ParticleEffects"
@@ -223,7 +223,7 @@
 
 		if_match
 		{
-			"visible"		"1"
+			"visible"		"0"
 		}
 	}
 
@@ -347,7 +347,7 @@
 				"ypos"			"12"
 				"ypos_minbad"	"12"
 				"tall"			"10"
-				"font"			"HudFontSmall"
+				"font"			"LemonBold12"
 				"font_minbad"	"HudFontSmall"
 				"font_lodef"	"HudFontSmall"
 			}
